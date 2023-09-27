@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   description: Api RestFul do Cards
   version: v1.9.18
-  title: Cards API Payment Homologação
+  title: Cards API Payment Homologação - 0.0.1
   termsOfService: http://www.conductor.com.br/cards_api/terms/
   contact:
     name: Cards Api
