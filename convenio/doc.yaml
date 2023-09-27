@@ -11,8 +11,8 @@ info:
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
-host: appslab.connect.dock.tech
-basePath: "/cards-api-payment"
+  host: appslab.connect.dock.tech
+  basePath: "/cards-api-payment"
 tags:
   - name: Contato
     description: Operações Contato
