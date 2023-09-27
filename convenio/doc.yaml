@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   description: Api RestFul do Cards
   version: v1.9.18
-  title: Cards API Payment Homologação - 0.0.2
+  title: Cards API Payment Homologação 002
   termsOfService: http://www.conductor.com.br/cards_api/terms/
   contact:
     name: Cards Api
@@ -11,8 +11,9 @@ info:
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
-host: appslab.connect.dock.tech
-basePath: "/cards-api-payment"
+servers:
+  - url: https://gambit-api-hml.korporate.cloud
+    description: Generated server url
 tags:
   - name: Contato
     description: Operações Contato
